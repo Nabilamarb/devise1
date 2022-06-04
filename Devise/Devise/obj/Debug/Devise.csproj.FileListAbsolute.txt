@@ -1,0 +1,3 @@
+C:\Users\Nabila\source\repos\Devise\Devise\obj\Debug\Devise.csproj.AssemblyReference.cache
+C:\Users\Nabila\source\repos\Devise\Devise\obj\Debug\Devise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nabila\source\repos\Devise\Devise\obj\Debug\Devise.csproj.CoreCompileInputs.cache
